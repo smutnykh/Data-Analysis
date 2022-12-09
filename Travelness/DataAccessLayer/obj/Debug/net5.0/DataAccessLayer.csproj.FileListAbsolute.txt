@@ -1,0 +1,15 @@
+D:\Thesis\Travelness\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thesis\Travelness\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Thesis\Travelness\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+D:\Thesis\Travelness\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Thesis\Travelness\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+D:\Thesis\Travelness\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\Thesis\Travelness\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+D:\Thesis\Travelness\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\Thesis\Travelness\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+D:\Thesis\Travelness\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+D:\Thesis\Travelness\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+D:\Thesis\Travelness\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+D:\Thesis\Travelness\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+D:\Thesis\Travelness\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+D:\Thesis\Travelness\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
